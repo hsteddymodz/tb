@@ -1,0 +1,153 @@
+{
+  "sticker": {},
+  "database": {},
+  "game": {},
+  "settings": {
+    "false": {
+      "status": 0,
+      "autobio": true,
+      "templateImage": false,
+      "templateLocation": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateList": false,
+      "templateDoc": false
+    },
+    "true": {
+      "status": 0,
+      "autobio": true,
+      "templateImage": false,
+      "templateLocation": false,
+      "templateGif": false,
+      "templateMsg": false,
+      "templateList": false,
+      "templateDoc": false
+    }
+  },
+  "others": {},
+  "users": {
+    "5362128496": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 80
+    },
+    "5436323543": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 80
+    },
+    "5742113097": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 80
+    },
+    "6295291595": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 80
+    },
+    "5436323543 ": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 80
+    },
+    "5522382729": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 80
+    },
+    "5133717305": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 80
+    }
+  },
+  "chats": {
+    "-1001580983689": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false
+    },
+    "-1001648980149": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "5522382729": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false,
+      "autoblock": false
+    },
+    "5436323543": {
+      "mute": false,
+      "chatbot": false,
+      "wame": false,
+      "antilink": false,
+      "antilinkyt": false,
+      "isWelcome": false,
+      "antilinkall": false,
+      "antiytchannel": false,
+      "antitiktok": false,
+      "antitelegram": false,
+      "antiinstagram": false,
+      "antifb": false,
+      "antibule": false,
+      "antiwame": false,
+      "antitwitter": false,
+      "antisticker": false,
+      "antiphoto": false,
+      "antivn": false,
+      "antivideo": false
+    }
+  }
+}
